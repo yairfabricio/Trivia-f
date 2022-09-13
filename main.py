@@ -16,7 +16,7 @@ iniciar_trivia = True
 intentos=0
 
 print (GREEN+"Bienvenido a mi trivia sobre la Selección de fútbol de Perú")
-print ("Pondremos a prueba tus conocimientos"+RESET)
+print ("Pondremos a prueba tus conocimientos¡"+RESET)
 print ("\nComenzaras con:", puntaje, "puntos")
 nombre = input("Ingresa tu nombre: ")
 
